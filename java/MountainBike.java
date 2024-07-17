@@ -11,6 +11,7 @@ class MountainBike extends Bicycle{
         // super is used to refer to base class constructor , and the arguements are the constructor arguments itself
         // super statement must be the first one inside the constructor
         super(startSpeed,startGear);
+        //this is used to denote that the variable belongs to the same class
         this.seatHeight=startHeight;
                         }
     public void seatHeight(int newValue){
