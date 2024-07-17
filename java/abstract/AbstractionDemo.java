@@ -5,6 +5,7 @@ public class AbstractionDemo{
         circle.draw();
         circle.resize();
 
+        // creating an object for the child class with reference to the parent class
         GraphicObject rectangle = new Rectangle();
         rectangle.draw();
         rectangle.resize();
