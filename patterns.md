@@ -20,3 +20,12 @@
 18. K-way merge
 19. Monotonic stack
 20. Multi-threaded
+
+
+# 5 patterns
+
+1. Array- 33,238,268
+2. two pointers- 42,3,977
+3. in-place linkedlist traversal- 19,234,143
+4. fast and slow pointers- 202,560,160
+5. merge intervals- 435,452,759
