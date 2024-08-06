@@ -1,3 +1,9 @@
+# Seanprasad patterns of 174
+https://seanprashad.com/leetcode-patterns/  
+
+# Strivers SDE pattern
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
+
 # Patterns for competitive coding
 
 1. Two pointers
@@ -45,4 +51,5 @@
 11. coin, knapsack related problems
 12. binary tree max path sum - 124
 13. longest consecutive sequence - 128
+
 
