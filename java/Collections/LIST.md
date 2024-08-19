@@ -2,6 +2,14 @@
 
 
 
+- **List Interface**: The top-level interface representing an ordered collection (also known as a sequence).
+- **AbstractList Class**: An abstract implementation of the List interface, providing a skeletal structure for implementing lists.
+- **AbstractSequentialList Class**: A subclass of AbstractList that provides a skeletal implementation for a list where sequential access is more efficient than random access.
+- **ArrayList Class**: A resizable array implementation of the List interface. It provides fast random access to elements but is slower for insertions and deletions in the middle.
+- **Vector Class**: Similar to ArrayList but synchronized, making it thread-safe. It has been largely replaced by more modern collections.
+- **Stack Class**: A subclass of Vector that represents a last-in-first-out (LIFO) stack of objects.
+- **LinkedList Class**: Implements both the List and Deque interfaces. It is a doubly-linked list that allows for efficient insertions and deletions.
+
 # Operations in a Java List Interface
 #### Declaration
 ```java
