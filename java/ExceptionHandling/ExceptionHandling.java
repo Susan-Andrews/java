@@ -4,7 +4,7 @@ public class ExceptionHandling{
     public void writeList(){
 
         try{
-            List<Integer> list = new ArrayList<>(10);
+            List<Integer> list = new ArrayList<>(10);    // Create a List of integer of size 10
             list.add(10);
             System.out.println("In the try statement");
             Integer a =list.get(1);
@@ -24,3 +24,4 @@ public class ExceptionHandling{
         ex.writeList();
     }
 }
+
