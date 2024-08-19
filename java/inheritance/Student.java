@@ -1,7 +1,7 @@
 public class Student {
     // private is used to implement encap on object, so oiny the class itself can only access this properties
     // but we also need to restrict in other ways too, since the methods csn access to the propewrites. 
-    // So we use geters
+    // So we use getters
     private  String name;
     private int age;
     private String address;
@@ -52,7 +52,7 @@ public class Student {
         // System.out.println(obj.getAge());
         // System.out.println(obj.getAddress());
         // or
-        System.out.println(obj.toString());
+        System.out.println(obj.toString()); // this is the method, which includes the printing statement.
 
 
     }
